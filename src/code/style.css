@@ -1,0 +1,31 @@
+* {
+    font-family: poppins;
+}
+
+.navbar {
+    background-color: #6fa3ef;
+    padding: 20px;
+}
+.navbar a{
+    color: white;
+}
+
+
+.hero {
+    height: 100vh;
+    background-image: url(https://images.unsplash.com/photo-1650783756107-739513b38177?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+}
+
+/* container */
+
+
+
+/* LR */
+.left {
+    color: white;
+    margin-top: 200px;
+}
+.left h1 {
+    font-weight: 700;
+    text-shadow: black 1px 0 10px;
+}
